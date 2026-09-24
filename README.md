@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mthokozisi040
 - 👀 I’m interested in Software Development and UI UX Design
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on upcoming projects
 - 📫 You can contact me via email on mbuyanemthokozisi@gmail.com
 - 😄 Pronouns: ...
