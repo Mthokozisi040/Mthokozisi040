@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and UI UX Design
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on upcoming projects
-- 📫 You can contact me on https://mbuyanemthokozisi.co.za
+- 📫 You can contact me on [https://mbuyanemthokozisi.co.za](https://www.mthokozisimbuyane.co.za/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
